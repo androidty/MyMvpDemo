@@ -1,5 +1,5 @@
 # MyMvpDemo
 一直想学习MVP框架，在拜读了众多讲解MVP框架的博客和demo案例的基础上自己写了一个MVP框架的demo
-demo采用MVP+Rxjava+Retrofit+Glide+ButterKnife新闻类型app
+demo采用MVP+Rxjava+Retrofit+Glide+ButterKnife新闻类型app,新闻类数据采用知乎日报API
 demo的mvp框架肯能很古老，没有采用封装的形式，每个界面都写了model接口、view接口、presenter接口以及对应的实现类
 十分方便想要学习MVP的初学者，也欢迎大牛指正*_*
